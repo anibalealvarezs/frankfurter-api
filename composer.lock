@@ -12,13 +12,13 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:anibalealvarezs/api-client-skeleton.git",
-                "reference": "bd5f52bedba1fce4e7c9c42ade7d0ed9d2563a22"
+                "reference": "4aef9d577f28a74222664569f177293575e1d916"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://satis.anibalalvarez.com/dist/anibalealvarezs/api-client-skeleton/anibalealvarezs-api-client-skeleton-bd5f52bedba1fce4e7c9c42ade7d0ed9d2563a22-zip-f80c5d.zip",
-                "reference": "bd5f52bedba1fce4e7c9c42ade7d0ed9d2563a22",
-                "shasum": "9771510cfa5c1ccd0d325f59c3c32d47da10c078"
+                "url": "https://satis.anibalalvarez.com/dist/anibalealvarezs/api-client-skeleton/anibalealvarezs-api-client-skeleton-4aef9d577f28a74222664569f177293575e1d916-zip-65ae20.zip",
+                "reference": "4aef9d577f28a74222664569f177293575e1d916",
+                "shasum": "521b40f2b98a0c58a094c3f8de8ccf3ea6908b1d"
             },
             "require": {
                 "anibalealvarezs/oauth-v1": "^1.0.0",
@@ -67,7 +67,7 @@
             "support": {
                 "issues": "https://github.com/anibalealvarezs/api-client-skeleton/issues"
             },
-            "time": "2026-07-02T20:56:26+00:00"
+            "time": "2026-11-10T13:25:01+00:00"
         },
         {
             "name": "anibalealvarezs/oauth-v1",
